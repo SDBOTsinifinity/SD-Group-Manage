@@ -1,15 +1,15 @@
 
-# sl bot Official Based on Python Telegram Bot
+# SDBOTs inifinity Based on Python Telegram Bot
 <p align="center">
-  <img src="https://telegra.ph/file/066343aa558e9348abadb.jpg">
+  <img src="https://telegra.ph/file/3f26caedf78426a80e055.jpg">
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sl-bot-Official/Group-Manage.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SDBOTsinifinity/SD-Group-Magane)
 
 
-## New version Avaiilable on Telegram as [𝖘𝖑 𝖍𝖎𝖙 𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝖇𝖔𝖙](https://t.me/slhitofficial_bot)
-## The-Anki-Vector-Bot is the latest
+## New version Avaiilable on Telegram as [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity)
+## EzilaXBot is the latest
 
 
 
@@ -26,12 +26,12 @@ e
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [𝖘𝖑 𝖍𝖎𝖙 𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝖇𝖔𝖙](https://t.me/slhitbotofficial) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity) or simply submit a pull request on the readme.
 
-## The Anki Vector bot the telegram Bot Project
+## EzilaXbot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
-𝖘𝖑 𝖍𝖎𝖙 𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝖇𝖔𝖙(advvanced)
+ SDBOTs inifinity (advvanced)
 
 ## Special Credits
 - [Damantha](https://github.com/Damantha126) - A Co-Developer of Project
