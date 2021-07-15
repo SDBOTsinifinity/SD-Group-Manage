@@ -33,11 +33,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1391755824"
+         "value": "1548967589"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "Damantha_Jasinghe"
+         "value": "Darkridersslk"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/066343aa558e9348abadb.jpg"    
+         "value": "https://telegra.ph/file/3f26caedf78426a80e055.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/066343aa558e9348abadb.jpg",
-   "name": "sl bot Official",
-   "repository": "https://github.com/sl-bot-Official/Group-Manage"
+   "logo": "https://telegra.ph/file/3f26caedf78426a80e055.jpg",
+   "name": "SDBOTs inifinity",
+   "repository": "https://github.com/SDBOTsinifinity/SD-Group-Manage"
 }
